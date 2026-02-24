@@ -1,0 +1,6 @@
+gradio>=5.0.0
+rapidocr-onnxruntime
+Pillow
+numpy
+opencv-python-headless
+paddle2onnx
